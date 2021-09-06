@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "김서진"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "프로그래밍 공부하는 학생"
+  location         : "대한민국, 서울"
+  email            : "21-20603@hafs.hs.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
