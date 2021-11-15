@@ -63,5 +63,13 @@ int main(void)
  else 
  { 
  if((year%4==0 && year%100!=0) || year%400==0)
+ printf("29일"); 
+ else 
+ printf("28일"); 
+ } 
+ printf("입니다.\n"); 
+ return 0; 
+}
+~~~ 
 
       
